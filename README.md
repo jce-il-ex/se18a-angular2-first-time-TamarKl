@@ -1,6 +1,7 @@
-# Angular 2 create and delpoy for first time
 https://firstproj-144d6.firebaseapp.com
- First time creating and deploying angular2 app
+# Angular 2 create and delpoy for first time
+
+First time creating and deploying angular2 app
 
 ### Getting Started
 

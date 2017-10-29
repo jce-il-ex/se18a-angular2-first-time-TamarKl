@@ -1,4 +1,5 @@
 https://firstproj-144d6.firebaseapp.com
+https://github.com/TamarKl/exe1
 # Angular 2 create and delpoy for first time
 
 First time creating and deploying angular2 app
